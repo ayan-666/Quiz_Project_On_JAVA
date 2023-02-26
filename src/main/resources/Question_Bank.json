@@ -1,0 +1,146 @@
+[
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Integration Testing",
+    "answer": "a",
+    "Question": "Which testing is done by developer?",
+    "Option c": "Sanity Testing",
+    "Option d": "Regression Testing"
+  },
+  {
+    "Option a": "Load Testing",
+    "Option b": "Security Testing",
+    "answer": "c",
+    "Question": "Which is functional testing?",
+    "Option c": "Sanity Testing",
+    "Option d": "Benchmark Testing"
+  },
+  {
+    "Option a": "Breadth test and depth test",
+    "Option b": "Confirmation testing",
+    "answer": "a",
+    "Question": "Which methodology is used to performed Maintenance testing?",
+    "Option c": "Retesting",
+    "Option d": "Sanity testing"
+  },
+  {
+    "Option a": "Test Case",
+    "Option b": "Requirements Traceability Matrix [RTM]",
+    "answer": "d",
+    "Question": "Which of the following is not part of the Test document?",
+    "Option c": "Test strategy",
+    "Option d": "Project Initiation Note [PIN]"
+  },
+  {
+    "Option a": "Evaluating deliverable to find errors",
+    "Option b": "Finding broken code",
+    "answer": "a",
+    "Question": "Which term is used to define testing?",
+    "Option c": "A stage of all projects",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Testing Phase",
+    "Option b": "Requirement Phase",
+    "answer": "d",
+    "Question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "Option c": "Deployment phase",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Error guessing technique",
+    "answer": "a",
+    "Question": "Which of the following testing is also known as white-box testing?",
+    "Option C": "Design based testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "answer": "c",
+    "Question": "Which of the following testing is related to the boundary value analysis?",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Test design technique",
+    "Option b": "Test level",
+    "answer": "d",
+    "Question": "Functional testing is a ------?",
+    "Option c": "SDLC Model",
+    "Option d": "Test type"
+  },
+  {
+    "Option a": "Integration testing",
+    "Option b": "Unit testing",
+    "answer": "d",
+    "Question": "What are the different levels of Testing?",
+    "Option c": "System testing",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Testing Planning",
+    "Option b": "Requirement Gathering",
+    "answer": "b",
+    "Question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "Option c": "Test Design",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "Test type",
+    "Option b": "Test Execution Level",
+    "answer": "b",
+    "Question": " Sanity testing is a ------?",
+    "Option c": "Test Level",
+    "Option d": "Test design technique"
+  },
+  {
+    "Option a": "User's end",
+    "Option b": "Developer's end",
+    "answer": "b",
+    "Question": "In which environment we can performed the Alpha testing?",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Schedule",
+    "Option b": "Risk",
+    "answer": "c",
+    "Question": "Which of the below is not a part of the Test Plan?",
+    "Option c": "Incident reports",
+    "Option d": "Entry and exit criteria"
+  },
+  {
+    "Option a": "Design Errors",
+    "Option b": "Interface Errors",
+    "answer": "b",
+    "Question": "What is the key objective of Integration testing?",
+    "Option c": "Procedure Errors",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Experience-based Test Design Technique",
+    "Option b": "White Box Test Design Technique",
+    "Correct Ans ": "a",
+    "Question": "Exploratory testing is a -----?",
+    "Option c": "Black Box Test Design Technique",
+    "Option d": "Grey Box Test Design Technique"
+  },
+  {
+    "Option a": "Product is old",
+    "Option b": "Developers are super",
+    "Correct Ans ": "c",
+    "Question": " Does the customer get a 100% bug-free product?",
+    "Option c": "The testing team is not good",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Grey box testing",
+    "Option b": "Black box testing",
+    "Correct Ans ": "c",
+    "Question": "-------- testing is used to check the code?",
+    "Option c": "White-box testing",
+    "Option d": "Red box testing"
+  }
+]
